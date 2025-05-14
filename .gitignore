@@ -24,6 +24,7 @@ wheels/
 # Virtual Environment
 venv/
 ENV/
+Failed Attempts/
 
 # IDE
 .idea/
